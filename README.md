@@ -1,6 +1,6 @@
 #Object Oriented Programming in Typescript
 
-Typescript is nothing but a Super-set of JavaScript.
+Typescript is nothing but a Super-set of JavaScript. It is an open source project maintained by Microsoft, and it transpiles into a JavaScript.
 
 Typescript designed for developers who build large and complex apps in JavaScript. It inherits Object Oriented Programming concepts from languages such as C\# and Java.
 
