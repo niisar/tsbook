@@ -7,4 +7,5 @@
 * [Classes](Classes/README.md)
     * [Constructors](Classes/Constructors.md)
     * [Properties and Methods](Classes/Properties and Methods.md)
+* Encapsulation
 
