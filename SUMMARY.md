@@ -6,5 +6,5 @@
     * Getting Started
 * [Classes](Classes/README.md)
     * Constructors
-    * Properties and Methods
+    * [Properties and Methods](Classes/Properties and Methods.md)
 
