@@ -12,5 +12,5 @@
 * [Inheritance](Inheritance/README.md)
 * [Overloading and Overriding](Overloading and Overriding/README.md)
 * [Future of Javascript](future-of-javascript.md)
-* StyleGuide
+* [StyleGuide](styleguide.md)
 
