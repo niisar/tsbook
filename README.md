@@ -1,4 +1,4 @@
-Programming using Typescript
+#Object Oriented Programming in Typescript
 
 Typescript is nothing but a Super-set of JavaScript.
 ![Typescript](ts1.png)
