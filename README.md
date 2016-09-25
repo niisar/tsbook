@@ -1,4 +1,4 @@
-# Object Oriented Programming using Typescript
+Programming using Typescript
 
 Typescript is nothing but a Super-set of JavaScript.
 ![Typescript](ts1.png)
@@ -7,7 +7,7 @@ Typescript designed for developers who build large and complex apps in JavaScrip
 
 Typescript is the hottest trend.
 
+![Typescript Trend](Typescript google trend.png)# Object Oriented
 [Data from Google Trend](https://www.google.com/trends/explore?date=all&q=TypeScript)
 
-Typescript is nothing but a Super-set of JavaScript. Typescript compiler will automatically convert it to JavaScript.
 
