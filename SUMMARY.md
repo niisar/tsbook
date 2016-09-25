@@ -5,6 +5,6 @@
     * Installation and Setup
     * Getting Started
 * [Classes](Classes/README.md)
-    * Constructors
+    * [Constructors](Classes/Constructors.md)
     * [Properties and Methods](Classes/Properties and Methods.md)
 
