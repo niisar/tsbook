@@ -2,7 +2,7 @@
 
 Typescript is nothing but a Super-set of JavaScript. It is an open source project maintained by Microsoft, and it transpiles into a JavaScript. Typescript is called typescript because of it's `Typings`. 
 
-So what's the benifit of Typings in Typescript? The benifit is you can't accidentally put a number to a String Type. And hence this prevent from bugs in our code and mantain the standard of code.
+So what's the benifit of Typings in Typescript? The benifit is you can't accidentally put a number to a String Type. And hence this prevent from bugs in our code and mantains the standard of code.
 
 Typescript designed for developers who build large and complex apps in JavaScript. It inherits Object Oriented Programming concepts from languages such as C\# and Java.
 
