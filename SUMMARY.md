@@ -8,4 +8,5 @@
     * [Constructors](Classes/Constructors.md)
     * [Properties and Methods](Classes/Properties and Methods.md)
 * [Encapsulation](Encapsulation/README.md)
+* [Interfaces](Interfaces/README.md)
 
