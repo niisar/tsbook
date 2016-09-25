@@ -10,7 +10,7 @@ Typescript designed for developers who build large and complex apps in JavaScrip
  Typescript is called typescript because of it's `Typings`. 
 
 
-Typescript is called typescript because of it's `Typings`. So what's the benifit of Typings in Typescript? The benifit is you can't accidentally put a number to a String Type. And hence this prevent from bugs in our code and mantains the standard.
+Typescript is called typescript because of it's `Typings`. So what's the benifit of Typings in Typescript? The benifit is you can't accidentally put a number to a String Type. And hence this prevent from bugs in our code and maintains the standard.
 
 
 Typescript is currently the hottest trend in client side programming.
