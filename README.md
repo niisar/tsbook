@@ -7,7 +7,7 @@ Typescript designed for developers who build large and complex apps in JavaScrip
 ![Typescript](ts1.png)
 
 
-Typescript is currently the hottest trend.
+Typescript is currently the hottest trend in client side programming.
 
 ![Typescript Trend](Typescript google trend.png)
 [Data from Google Trend](https://www.google.com/trends/explore?date=all&q=TypeScript)
