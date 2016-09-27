@@ -1,4 +1,4 @@
-#Object Oriented Programming in Typescript
+# Object Oriented Programming in Typescript
 
 Typescript is nothing but a Super-set of JavaScript. It is an open source project maintained by Microsoft, and it transpiles into a JavaScript. 
 
@@ -14,7 +14,8 @@ Typescript is called typescript because of it's `Typings`. So what's the benifit
 
 Typescript is currently the hottest trend in client side programming.
 
-![Typescript Trend](Typescript google trend.png)
+![Typescript Trend](Typescriptgoogletrend.png)
+
 [Data from Google Trend](https://www.google.com/trends/explore?date=all&q=TypeScript)
 
 
