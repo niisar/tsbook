@@ -10,7 +10,7 @@
 * [Encapsulation](Encapsulation/README.md)
 * [Interfaces](Interfaces/README.md)
 * [Inheritance](Inheritance/README.md)
-* [Overloading and Overriding](Overloading and Overriding/README.md)
+* [Overloading and Overriding](OverloadingandOverriding/README.md)
 * [Future of Javascript](future-of-javascript.md)
 * [StyleGuide](styleguide.md)
 
