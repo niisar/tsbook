@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Installation and Getting Started](InstallationandGettingStarted/README.md)
-    * [Installation and Setup](InstallationandGetting Started/InstallationandSetup.md)
+    * [Installation and Setup](InstallationandGettingStarted/InstallationandSetup.md)
     * [Getting Started](InstallationandGettingStarted/GettingStarted.md)
 * [Classes](Classes/README.md)
     * [Constructors](Classes/Constructors.md)
