@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Installation and Getting Started](InstallationandGetting Started/README.md)
+* [Installation and Getting Started](InstallationandGettingStarted/README.md)
     * [Installation and Setup](InstallationandGetting Started/InstallationandSetup.md)
     * [Getting Started](InstallationandGettingStarted/GettingStarted.md)
 * [Classes](Classes/README.md)
