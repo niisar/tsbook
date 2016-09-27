@@ -1,4 +1,4 @@
-#Installation and Getting Started
+# Installation and Getting Started
 
-##Installing TypeScript
-##Choosing an Editor
+## Installing TypeScript
+## Choosing an Editor
