@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [Installation and Getting Started](InstallationandGetting Started/README.md)
-    * [Installation and Setup](InstallationandGetting Started/Installation and Setup.md)
-    * [Getting Started](Installation and Getting Started/Getting Started.md)
+    * [Installation and Setup](InstallationandGetting Started/InstallationandSetup.md)
+    * [Getting Started](InstallationandGettingStarted/GettingStarted.md)
 * [Classes](Classes/README.md)
     * [Constructors](Classes/Constructors.md)
     * [Properties and Methods](Classes/Properties and Methods.md)
