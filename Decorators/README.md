@@ -9,19 +9,12 @@
 
 
  ```ts
-
 @Component({
-
  template: '<h1>Hello this is {{title}}</h1>',
-
 })
-
 export class AppComponent {
-
  title = 'My app!';
-
 }
-
  ```
 
  In the Above example AppComponent is a normal class with a ```title``` property, and it has a Component decorator above it. Because the Component decorator is above the class, it works with that class. Here it's defining a view for the AppComponent class, which data binds to the title property of the class. The Component decorator itself is a function.
