@@ -1,4 +1,4 @@
-###Inheritance
+### Inheritance
 
   When a new class created from an existing class. Such that new class inherits attributes and behavior of existing class called Inheritance.
   
