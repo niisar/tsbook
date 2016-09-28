@@ -15,5 +15,4 @@
 * [Utilities](Utilities/README.md)
 * [Decorator](Decorators/README.md)
 * [Future of Javascript](future-of-javascript.md)
-* [Utilities](Utilities/README.md)
 
