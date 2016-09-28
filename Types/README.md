@@ -13,7 +13,6 @@ let c: Color = Color.Green;
 let notSure: any = 4;
 notSure = "maybe a string instead";
 notSure = false;
-
 ```
 
 We can notice `let` keyword used instead of `var` to declare a variable. This is because let allows you to declare variables to a limited scope of block or statement.
