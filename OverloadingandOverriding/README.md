@@ -15,7 +15,7 @@ class student{
 ```
 In the above example Foo function overloaded to support both string and number parameter.
 
-####Function Overriding
+#### Function Overriding
 
 Function Overriding is creating a function in a subclass with the same name as the function in the base class but with different functionality. 
 
