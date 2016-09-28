@@ -7,7 +7,7 @@
 * [Classes](Classes/README.md)
     * [Constructors](Classes/Constructors.md)
     * [Properties and Methods](Classes/PropertiesandMethods.md)
-* Types
+* [Types](Types/README.md)
 * [Encapsulation](Encapsulation/README.md)
 * [Interfaces](Interfaces/README.md)
 * [Inheritance](Inheritance/README.md)
