@@ -29,13 +29,13 @@ export class AppComponent {
 
 
 
- ####Property Decorators
+ #### Property Decorators
 
- ####Method Decorators
+ #### Method Decorators
 
- ####Class Decorators
+ #### Class Decorators
 
- ####Parameter Decorators
+ #### Parameter Decorators
 
 
 
