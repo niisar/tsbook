@@ -1,6 +1,8 @@
 # Object Oriented Programming in Typescript
 
-Typescript is nothing but a Super-set of JavaScript. It is an open source project maintained by Microsoft, and it transpiles into a JavaScript.
+Typescript is nothing but a Super-set of JavaScript. It is an open source project maintained by Microsoft. It basically transpiles Typescript Code into JavaScript.
+
+Typescript is recomanded language for Angular 2 and also work greate with other framework and liberary like React and JQuery.
 
 Typescript designed for developers who build large and complex apps in JavaScript. It inherits Object Oriented Programming concepts from languages such as C\# and Java.
 
