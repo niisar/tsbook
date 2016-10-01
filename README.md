@@ -10,7 +10,7 @@ Typescript is called typescript because of it's `Typings`. So what's the benifit
 
 Typescript is currently the hottest trend in client side programming.
 
-![Typescript Trend](ts-coffee-dart.png)
+![Typescript Trend](ts-coffe-dart.png)
 
 [Data from Google Trend](https://www.google.com/trends/explore?date=all&q=TypeScript)
 
