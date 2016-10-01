@@ -1,6 +1,6 @@
 ### Typing
 
-Types helps when reading code because it clarifies your intentions, Hear are the Some of the basic types:
+The types on your Typescript makes your code safer. You have fewer Bugs and more readable code because it clarifies your intentions, Hear are the Some of the basic types:
 
 ```ts
 let isDone: boolean = false;
