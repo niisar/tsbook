@@ -12,5 +12,5 @@ Typescript is currently the hottest trend in client side programming.
 
 ![Typescript Trend](ts-coffe-dart.PNG)
 
-[Data from Google Trend](https://www.google.com/trends/explore?date=all&q=TypeScript)
+[Data from Google Trend](https://www.google.com/trends/explore?date=all&q=%2Fm%2F0n50hxv,%2Fm%2F0hjc5m0,%2Fm%2F0h52xr1)
 
