@@ -1,6 +1,6 @@
 # Object Oriented Programming in Typescript
 
-Typescript is nothing but a Super-set of JavaScript that means any JavaScript you write is a valid Typescript. It is an open source project maintained by Microsoft. It basically transpiles Typescript Code into JavaScript.
+Typescript is nothing but a Super-set of JavaScript that means any JavaScript you write is a valid Typescript. The best part of Typescript is it compile your Typescript in to Plain old JavaScript that's run everyware. It is an open source project maintained by Microsoft.
 
 Typescript is recomanded language for Angular 2 and also work greate with other framework and liberary like React and JQuery.
 
