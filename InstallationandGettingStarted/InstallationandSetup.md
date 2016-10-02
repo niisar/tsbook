@@ -6,7 +6,11 @@ You will find a screen like this below.
 
 ![](download.PNG)
  
-We will install Typescript for **Visual Studio 2015**, **Visual Studio Code** and **Node**
+We will install Typescript for  **Visual Studio Code** and **Node**
+
+### Setup Typescript for Visual Studio Code
+
+
 
 ### Setup Typescript for Node
 
