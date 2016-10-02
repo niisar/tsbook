@@ -8,10 +8,6 @@ You will find a screen like this below.
  
 We will install Typescript for  **Visual Studio Code** and **Node**
 
-### Setup Typescript for Visual Studio Code
-
-
-
 ### Setup Typescript for Node
 
 **Step 1:** Make sure Node is install in your machine. If Node is not in your machine you can get Node from following Website [https://nodejs.org/en](https://nodejs.org/en/).
