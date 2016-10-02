@@ -12,6 +12,8 @@ We will install Typescript for  **Visual Studio Code** and **Node**
 
 **Set up the task configuration:** To do this open the Command Palette with `Ctrl+Shift+P` and type in Configure Task Runner, press Enter to select it.
 
+**Choose Template:** After this Visual studio code will ask to choose diferrent 
+
 ### Setup Typescript for Node
 
 **Step 1:** Make sure Node is install in your machine. If Node is not in your machine you can get Node from following Website [https://nodejs.org/en](https://nodejs.org/en/).
