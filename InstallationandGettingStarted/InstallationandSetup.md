@@ -10,4 +10,4 @@ We will install Typescript for **Visual Studio 2015**, **Visual Studio Code** an
 
 ### Setup Typescript for Node
 
-
+Step 1: Make sure Node is install in your machine. If Node is not in your machine you can get Node from following Website.
