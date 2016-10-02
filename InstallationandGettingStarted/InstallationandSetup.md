@@ -4,4 +4,4 @@ There are several option available to install Typescript. But the best option is
 
 You will find a screen below.
 
-![Typescript](ts1.png)
+![Typescript](InstallationandGettingStarted/download.PNG)
