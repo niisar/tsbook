@@ -1,1 +1,2 @@
-# install
+# Installing Typescript
+
