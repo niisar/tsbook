@@ -35,6 +35,9 @@ We will install Typescript for  **Visual Studio Code** and **Node**
 ![Select folder](selectfolder.PNG)
 
 **Step 6** Create new Typescript file called `HelloWorld.ts`
+![Hello World](helloworld.ts)
+
+
 
 
 Point to the directory we have created just now.
