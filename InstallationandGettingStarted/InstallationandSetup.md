@@ -8,4 +8,3 @@ You will find a screen like this below.
  
 
 
-kk
