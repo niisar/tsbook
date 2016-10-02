@@ -19,3 +19,13 @@ We will install Typescript for  **Visual Studio Code** and **Node**
 **Step 3:** After the installation is complete you can check Typescript version. Type following command in same Command Prompt `tsc --version`
 
 ![tsc version](tsversion.PNG)
+
+### Setup Typescript for Visual Studio Code
+
+**Step 1:** Make sure we have already installed visual studio code in our machine. If not we can download one from following website [https://code.visualstudio.com](https://code.visualstudio.com)
+
+**Step 2:** Once Visual Studio Code installed in your machine. Open Visual Studio Code
+
+**Step 3:** Create Directory `D:\TypeScript-WorkSpace`
+
+**Step 4:** Open Visual and Point to the directory we have created just now.
