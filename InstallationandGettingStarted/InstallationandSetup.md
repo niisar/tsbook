@@ -28,4 +28,8 @@ We will install Typescript for  **Visual Studio Code** and **Node**
 
 **Step 3:** Create Directory `D:\TypeScript-WorkSpace`
 
-**Step 4:** Open Visual and Point to the directory we have created just now.
+**Step 4:** Open Visual Studio Code and Under Visual Studio Code Open Explorer
+![Open Folder](openfolder.png)
+
+
+Point to the directory we have created just now.
