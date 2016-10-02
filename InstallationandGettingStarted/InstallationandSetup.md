@@ -8,11 +8,7 @@ You will find a screen like this below.
  
 We will install Typescript for  **Visual Studio Code** and **Node**
 
-### Integrate Typescript with Visual Studio Code
 
-**Set up the task configuration:** To do this open the Command Palette with `Ctrl+Shift+P` and type in Configure Task Runner, press Enter to select it.
-
-**Choose Template:** After this Visual studio code will ask to choose diferrent 
 
 ### Setup Typescript for Node
 
@@ -25,6 +21,15 @@ We will install Typescript for  **Visual Studio Code** and **Node**
 **Step 3:** After the installation is complete you can check Typescript version. Type following command in same Command Prompt `tsc --version`
 
 ![tsc version](tsversion.PNG)
+
+### Integrate Typescript with Visual Studio Code
+
+**Set up the task configuration:** To do this open the Command Palette with `Ctrl+Shift+P` and type in Configure Task Runner, press Enter to select it.
+
+**Choose Template:** After this Visual studio code will ask to choose diferrent 
+
+https://code.visualstudio.com/Docs/languages/typescript
+Step 2: Create tasks.json
 
 ### Setup Typescript for Visual Studio Code
 
