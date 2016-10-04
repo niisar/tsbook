@@ -24,7 +24,7 @@ We will install Typescript for  **Visual Studio Code** and **Node**
 
 ### Integrate Typescript with Visual Studio Code
 
-**Set up the task configuration:** To do this open the Command Palette with `Ctrl+Shift+P` and type in `Configure Task Runner`, and press Enter to select it.
+**Set up the task configuration:** To do this open the Command Palette with `Ctrl+Shift+P` and type in `Configure Task Runner`, and press Enter and select.
 
 **Choose Template:** After this Visual studio code will ask to choose diferrent 
 
