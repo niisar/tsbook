@@ -26,6 +26,7 @@ We will install Typescript for  **Visual Studio Code** and **Node**
 
 **Set up the task configuration:** To do this open the Command Palette with `Ctrl+Shift+P` and type in `Configure Task Runner`, and press Enter and select.
 
+
 **Choose Template:** After this Visual studio code will ask to choose diferrent 
 
 https://code.visualstudio.com/Docs/languages/typescript
